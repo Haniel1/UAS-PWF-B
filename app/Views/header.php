@@ -14,5 +14,6 @@
     <nav class="navbar navbar-expand-sm navbar-dark bg-primary">
         <div class="container">
             <a class="navbar-brand" href="">Daftar_HP</a>
+            <a href="<?= base_url('logout'); ?>" class="btn btn-secondary mb-2"><i class="fas fa-home"></i> logout</a>
         </div>
     </nav>

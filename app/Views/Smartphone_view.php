@@ -1,4 +1,3 @@
-<a href="<?= base_url('logout'); ?>" class="btn btn-secondary mb-2"><i class="fas fa-home"></i> logout</a>
 <div class="container pt-5">
     <div class="text-right">
         <button type="button" class="btn btn-success" data-toggle="modal" data-target="#exampleModal" data-whatever="@getbootstrap" style="margin-bottom:10px;">Tambah Data</button>
@@ -14,7 +13,7 @@
                 <table class="table table-bordered table-striped">
                     <thead>
                         <tr>
-                            <th>ID</th>
+                            <th>NO.</th>
                             <th>Nama Handphone</th>
                             <th>Merek Handphone</th>
                             <th>Tahun Keluaran Handphone</th>
